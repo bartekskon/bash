@@ -1,1 +1,3 @@
 # bash
+
+skrypty poczatkującego xD
